@@ -9,3 +9,4 @@
 • Trained model on 25000 samples and Achieved 0.855 accuracy on test set. 
 
 • Experimented with GPU acceleration for fast training of deep neural networks
+
